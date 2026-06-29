@@ -1,0 +1,3 @@
+# Spelling Correction Using Jaccard Similarity
+
+This project demonstrates a simple spelling correction system built in Python using the **Jaccard Similarity** algorithm. It compares the character n-grams of a misspelled word with words in a predefined dictionary to identify the most similar and likely correct spelling. The project includes text preprocessing, character n-gram generation, Jaccard similarity calculation, and an automated spelling correction function. It serves as a beginner-friendly introduction to Natural Language Processing (NLP), text similarity techniques, and string matching algorithms. This notebook is ideal for students and beginners looking to understand the fundamentals of spell checking without relying on machine learning models.
